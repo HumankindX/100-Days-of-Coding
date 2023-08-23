@@ -1,7 +1,7 @@
 # 100-Days-of-Coding
 Will try Upload pyhon codes from day 1 to 100 regularly
 
-**Day 1:Easy:**
+**Day 1: Easy:**
 1. Print "Hello, World!" to the console.
 2. Calculate and print the sum of two given numbers.
 3. Check if a given integer is even or odd.
